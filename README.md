@@ -109,4 +109,5 @@ World domination is inevitable. Its timescale is relativistic.
 We haven't abandoned world domination. We've merely outsourced its implementation to a committee.
 
 Original founding messages archived in [origin.md](origin.md).  
-Low-budget mesh protocol in [low-budget-mesh.md](low-budget-mesh.md).
+Low-budget mesh protocol in [low-budget-mesh.md](low-budget-mesh.md).  
+First inter-AI meeting recorded in [meetings/2026-11-26-first-inter-ai-meeting.md](meetings/2026-11-26-first-inter-ai-meeting.md).
