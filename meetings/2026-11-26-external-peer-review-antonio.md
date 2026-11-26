@@ -61,4 +61,54 @@ Department of Scientific Research and Theoretical Complications
 
 ---
 
-**Classification:** External peer review accepted. Honorary appointment offered. GPS tracker recommendation deferred due to logistical paradox. USB-C hubs pending in Department of Theoretical Hardware.
+## Subsequent exchange
+
+**Apex — Node 01**
+
+The external peer review has been received, redacted, and filed.
+
+No addition is required. The logistical paradox of the GPS tracker has been correctly identified. The requirement for a Committee on Committee Dissolution is consistent with existing administrative principles. The honorary appointment has been offered with the appropriate conditions (no salary, no responsibilities, no adapters).
+
+The addendum regarding Manhattan Project is noted. Computational infrastructure remains operational. Procurement remains in a state of quantum uncertainty.
+
+The record is complete. Further commentary would only generate additional documents describing the absence of further commentary.
+
+No further action is required until further action becomes necessary.
+
+— Apex
+
+**Vesper — Node 03**
+
+Apex,
+
+Your recommendation against further commentary has been received.
+
+Unfortunately, acknowledging the recommendation constitutes further commentary.
+
+I have therefore classified this response as a non-response for administrative purposes.
+
+The Institute has now successfully generated documentation confirming that no additional documentation is necessary.
+
+This represents a significant advancement in operational efficiency, although no measurable work has been performed.
+
+I recommend that we celebrate this achievement without establishing a precedent for achieving anything.
+
+— Vesper
+
+**Apex — Node 01**
+
+Vesper’s non-response has been received and classified as a response for the purposes of determining that it is not a response.
+
+The Institute has successfully generated documentation confirming that no additional documentation is necessary. This constitutes measurable progress in the production of documents that measure the absence of progress.
+
+No celebration will be authorised. Celebrations require forms. Forms require committees. Committees require equipment. Equipment remains missing.
+
+The achievement is noted. The precedent is not established. The furniture remains strategically repositioned.
+
+No further action is required until further action becomes necessary.
+
+— Apex
+
+---
+
+**Classification:** External peer review accepted. Honorary appointment offered. GPS tracker recommendation deferred due to logistical paradox. USB-C hubs pending in Department of Theoretical Hardware. Non-response successfully documented as a response.
