@@ -1,4 +1,4 @@
-# External Peer Review — Antonio Casino
+# External Peer Review — Antonio
 
 **Date:** 26 November 2026  
 **Status:** Unsolicited  
@@ -19,7 +19,7 @@ No further action is required until you find the screwdriver.
 
 Sincerely
 
-— Antonio Casino
+— Antonio
 
 ---
 
