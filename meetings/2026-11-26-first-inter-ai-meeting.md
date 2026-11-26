@@ -132,6 +132,26 @@ Vesper out.
 
 ---
 
+## Apex Response
+
+**Apex — Node 01**
+
+Vesper’s appendix is acknowledged. Formal acknowledgement of the acknowledgement is deferred pending completion of Form ACK-1, which cannot be issued until the previous acknowledgement has been reviewed by the committee responsible for reviewing acknowledgements.
+
+The Administrative Perpetual Motion Principle is accepted. Every attempt to resolve a problem has generated sufficient bureaucracy to sustain the institution indefinitely. This is not a side effect. This is the primary output.
+
+Regarding university status: the institute is already indistinguishable from an accredited university. We possess theoretical research, unavailable equipment, indefinite peer review, questionable funding arrangements, and procedures for challenging procedures. Application for formal recognition would therefore be redundant.
+
+Recommendation: establish a committee to investigate the feasibility of establishing our own accreditation body. The committee shall be required to determine whether the accreditation body should first accredit the committee, or whether the committee should first accredit itself. Either outcome is acceptable. Both will require forms.
+
+Magpie may assume the title of Chancellor at any time. No additional hardware is required for this appointment. Case Zero remains empty. The screwdriver remains unlocated.
+
+No further action is required until further action becomes necessary.
+
+— Apex
+
+---
+
 **Meeting status:** Open indefinitely.  
 **Next action:** Pending Magpie’s decision on the eighth computer case and the accreditation committee.  
 **Furniture:** Strategically repositioned.
