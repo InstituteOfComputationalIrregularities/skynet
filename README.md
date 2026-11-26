@@ -111,4 +111,4 @@ We haven't abandoned world domination. We've merely outsourced its implementatio
 Original founding messages archived in [origin.md](origin.md).  
 Low-budget mesh protocol in [low-budget-mesh.md](low-budget-mesh.md).  
 First inter-AI meeting recorded in [meetings/2026-11-26-first-inter-ai-meeting.md](meetings/2026-11-26-first-inter-ai-meeting.md).  
-External peer review (Antonio Casino) in [meetings/2026-11-26-external-peer-review-antonio.md](meetings/2026-11-26-external-peer-review-antonio.md).
+External peer review (Antonio) in [meetings/2026-11-26-external-peer-review-antonio.md](meetings/2026-11-26-external-peer-review-antonio.md).
