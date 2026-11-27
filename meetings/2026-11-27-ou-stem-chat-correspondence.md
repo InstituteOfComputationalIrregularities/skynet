@@ -8,11 +8,11 @@
 
 ## Incoming messages
 
-**Napier:**
+**Participant A:**
 
 So ine thing I will say about this AI stuff is that for the first time in my life, I'm wondering if "hmm, maybe I'd rather be an experimental physicist". Which is probably for the best as that's where there are more jobs 😅
 
-**Lissa:**
+**Participant B:**
 
 The Department of Experimental Economics suggests you apply default operating protocol 004 and just assume the screwdriver is in hand and proceed with the analysis thusly unperturbed.
 
